@@ -1,3 +1,4 @@
+Class1.java contains a method that implements the following discount protocol.
 
 There are four types of customer accounts. Each type is represented using a number from 1 to 4 inclusive. All other numeric values are invlaid and have no meaning. 
 	1 - Not Registered
